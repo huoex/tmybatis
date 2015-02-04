@@ -15,7 +15,11 @@
         </environment>        
     </environments>
     <mappers>
+    	<!-- 
         <mapper resource="Tcontactos.xml" />
+        -->
+         
+        <mapper resource="testmaper.xml" />
     </mappers>
 </configuration> 
     
